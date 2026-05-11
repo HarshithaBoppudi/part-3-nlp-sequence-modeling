@@ -1,0 +1,15 @@
+REQUIRMENTS:
+
+pandas → load and explore the CSV dataset.
+
+numpy → numerical operations, array handling.
+
+scikit-learn → train/test split, TF‑IDF vectorization, baseline models, evaluation metrics.
+
+matplotlib → plotting accuracy/loss curves, confusion matrix.
+
+seaborn → nicer plots for class distribution and confusion matrix.
+
+nltk → stopword removal, tokenization, text preprocessing.
+
+tensorflow → building and training the LSTM/sequence model.
