@@ -1,6 +1,6 @@
-# =========================
+
 # Task 6: Attention & Transformer Reflection
-# =========================
+
 
 - RNNs struggle with long-term dependencies because information fades as sequences grow longer.
 - LSTMs introduce gates (input, forget, output) to preserve memory and handle longer sequences.
